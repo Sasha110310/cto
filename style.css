@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: darkblue;
+    color:white;
+    padding:10px;
+
+}
+
+header a{
+    color: lightblue;
+    margin: 10px;
+}
+
+h1{
+    text-align:center ;
+    color: darkviolet;
+    font-size: 90px;
+}
+
+footer{
+    background-color:white ;
+
+
+}
+
+footer p{
+    background-color:greenyellow;
+}
+
+nav{
+    padding: 20px;
+
+}
+
+nav a{
+    margin: 50px;
+    border: 3px solid darkblue;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+    text-decoration: none;
+}
+
+main a{
+    border: 3px solid green;
+    
+
+}
+
+.cto{
+    background-color: darkgreen;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
